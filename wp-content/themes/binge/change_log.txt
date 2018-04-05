@@ -1,0 +1,18 @@
+	
+
+	— — — ——  Change Log for Binge Wordpress Theme  — — — —
+
+		v1.0.10	- Initial Release
+
+		v1.1	- 1. Added the Slider 
+			  2. Updated the Screenshot
+
+		v1.1.1	- Changed the Screenshot (Wrong Screenshot in previous upload)
+
+		v1.2	- Fixed a Social-Icon placement problem
+			  Changed the layout a bit
+			  Improved the Navigation Bar
+			  Added title-tag support
+
+		v1.2.1	- Corrected the social icons
+			  Corrected a title-tag bug

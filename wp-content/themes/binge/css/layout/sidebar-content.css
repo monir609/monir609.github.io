@@ -1,0 +1,17 @@
+/*
+Theme Name: binge
+Layout: Sidebar-Content
+*/
+
+.content-area {
+	float: right !important;
+}
+
+.site-content .widget-area {
+	float: left !important;
+	overflow: hidden;
+}
+.site-footer {
+	clear: both;
+	width: 100%;
+}
